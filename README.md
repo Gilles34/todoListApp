@@ -16,4 +16,5 @@ User can also delete todo to commence a new to do's list.
  
  2. Got to learn to use some cool animations and gradients using css.
  
+ ![The index page of the todo app](https://github.com/GillesJnr/todoListApp/blob/master/assets/images/todo%20github.PNG)
  
